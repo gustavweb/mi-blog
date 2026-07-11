@@ -4,14 +4,24 @@ body {
   margin: 40px auto;
   padding: 20px;
   line-height: 1.6;
-  background-color: #f2f2f2;
+  background-color: #f7f7f7;
+  color: #222;
 }
 
 h1 {
-  font-size: 40px;
-  color: darkblue;
+  font-size: 42px;
+  margin-bottom: 10px;
 }
 
 h2 {
   margin-top: 40px;
+}
+
+a {
+  color: #005bbb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
