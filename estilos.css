@@ -4,10 +4,12 @@ body {
   margin: 40px auto;
   padding: 20px;
   line-height: 1.6;
+  background-color: #f2f2f2;
 }
 
 h1 {
   font-size: 40px;
+  color: darkblue;
 }
 
 h2 {
