@@ -110,3 +110,18 @@ footer {
 .menu a:hover {
   text-decoration: underline;
 }
+
+.boton {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 10px 16px;
+  background-color: #1f4e5f;
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.boton:hover {
+  text-decoration: none;
+  background-color: #163946;
+}
