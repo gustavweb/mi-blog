@@ -132,3 +132,13 @@ footer {
   margin-top: 0;
   margin-bottom: 8px;
 }
+
+.hero {
+  margin: 20px 0 0;
+}
+
+.hero figcaption {
+  margin-top: 10px;
+  font-size: 18px;
+  color: #444444;
+}
