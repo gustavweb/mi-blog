@@ -125,3 +125,10 @@ footer {
   text-decoration: none;
   background-color: #163946;
 }
+
+.fecha {
+  font-size: 14px;
+  color: #7a6a58;
+  margin-top: 0;
+  margin-bottom: 8px;
+}
